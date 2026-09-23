@@ -4,7 +4,7 @@
 ![VMware](https://img.shields.io/badge/VMware-Workstation-blue)
 ![Kali Linux](https://img.shields.io/badge/Kali-Linux-557C94?logo=kalilinux&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-Static%20IPv4-informational)
-![Status](https://img.shields.io/badge/Status-In%20Progress-orange)
+![Status](https://img.shields.io/badge/Status-%20done-orange)
 
 ## 📌 Project Overview
 
