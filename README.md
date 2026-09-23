@@ -1,6 +1,4 @@
 # Aashif-B083-WK1-CYBERSECURITY-LAB-SETUP
-# 🔐 Cybersecurity Laboratory Environment Setup
-
 ### VMware Workstation & Kali Linux
 
 ![VMware](https://img.shields.io/badge/VMware-Workstation-blue)
@@ -164,7 +162,7 @@ NETWORKWALKS-B083-WK1-PM1-CYBERSECURITY-LAB-SETUP/
 
 Cybersecurity | VAPT | SOC | Linux | Networking
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 This repository is created for **educational and cybersecurity lab purposes**. All security testing should be performed only on systems, networks, and virtual environments that you own or have explicit authorization to test.
 
