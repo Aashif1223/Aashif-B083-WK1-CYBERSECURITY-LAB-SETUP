@@ -52,7 +52,8 @@ The following manual IPv4 configuration was applied to the Kali Linux VM:
 
 I accessed the network configuration tools in Kali Linux to modify the wired connection settings.
 
-![Network Configuration](Screenshots/01_Network_Configuration_Access.png)
+![Network Configuration](Screenshots/01_Network_Configuration_Access.png)<img width="960" height="540" alt="01_Network_Configuration_Access" src="https://github.com/user-attachments/assets/1d516847-4ccf-4799-8482-fcb37a0cc8c9" />
+
 
 ### 2. Configure Static IPv4
 
@@ -63,7 +64,8 @@ The wired connection was configured with the following values:
 - **Netmask:** `/24`
 - **Gateway:** `10.0.0.1`
 
-![Static IP Configuration](Screenshots/02_Static_IP_Configuration.png)
+![Static IP Configuration](Screenshots/02_Static_IP_Configuration.png)<img width="960" height="540" alt="02_Static_IP_Configuration" src="https://github.com/user-attachments/assets/21b61e26-8de0-4da1-8dfc-f4f92d3831ac" />
+
 
 ### 3. Verify the IP Address
 
@@ -79,7 +81,8 @@ The `eth0` interface showed:
 inet 10.0.0.2/24
 ```
 
-![IP Address Verification](Screenshots/03_IP_Address_Verification.png)
+![IP Address Verification](Screenshots/03_IP_Address_Verification.png)<img width="960" height="540" alt="03_IP_Address_Verification" src="https://github.com/user-attachments/assets/74fa2ec7-6ee5-4e6c-8c41-3557a1aff2d9" />
+
 
 ### 4. Verify Interface State
 
@@ -95,7 +98,8 @@ The interface state was then checked with:
 ip a
 ```
 
-![Interface Status Verification](Screenshots/04_Interface_Status_Verification.png)
+![Interface Status Verification](Screenshots/04_Interface_Status_Verification.png)<img width="960" height="540" alt="04_Interface_Status_Verification" src="https://github.com/user-attachments/assets/53dab9ce-e5f2-4666-9a88-290048560bb2" />
+
 
 ## 💻 Useful Commands
 
